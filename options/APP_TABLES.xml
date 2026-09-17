@@ -1,0 +1,6 @@
+<appTables>
+  <appTable displayName='Captain's Log' objPlural='captainsLogs' classPlural='CaptainsLogs' objName='captainsLog' className='CaptainsLog' dbName='CAPTAINS_LOG' fileName='captainsLog'>
+    <appField displayName='Log Picture' dbName='LOG_PICTURE' classFieldName='LogPicture' objFieldName='logPicture' fieldType='Integer' fieldSize='1' codeType='Camera' listFlag='no' listOrder='1' blobNameFld='' scale='' format='%d' classPlural=''/>
+    <appField displayName='Log Notes' dbName='LOG_NOTES' classFieldName='LogNotes' objFieldName='logNotes' fieldType='String' fieldSize='255' codeType='Clob' listFlag='yes' listOrder='2' blobNameFld='' scale='' format='%s' classPlural=''/>
+  </appTable>
+</appTables>

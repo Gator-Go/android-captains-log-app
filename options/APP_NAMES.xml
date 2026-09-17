@@ -1,0 +1,16 @@
+<appNames>
+  <appName newName="captainsLog" oldName="xxxxx"/>
+  <appName newName="CaptainsLog" oldName="Xxxxx"/>
+  <appName newName="CAPTAINS_LOG" oldName="XXXXX"/>
+  <appName newName="Captains Log" oldName="XDXDXDXDX"/>
+  <appName newName="CAPTAINS_LOG_APP" oldName="XSXSX"/>
+  <appName newName="captainsLogApp" oldName="xsxsx"/>
+  <appPackage newPackage="com.swBuilder.captainsLog.app" oldPackage="ppp.ppp.ppp"/>
+  <appPackage newPackage="com/swBuilder/captainsLog/app" oldPackage="PPPsPPPsPPP"/>
+  <appPackage newPackage="com_swBuilder_captainsLog_app" oldPackage="PPP_PPP_PPP"/>
+  <appAuthor newAuthor="Ron Kanengieter" oldAuthor="Aaaaa"/>
+  <appAuthor newAuthor="gator@sw-builder.com" oldAuthor="aaaaa@ddddd"/>
+  <appCopyright 
+    newCopyright="Copyright (c) 2026 Ron Kanengieter\n * Licensed under the MIT License[](https://opensource.org/licenses/MIT)\n * Developed by sw-builder.com" 
+    oldCopyright="Lllll"/>
+</appNames>
